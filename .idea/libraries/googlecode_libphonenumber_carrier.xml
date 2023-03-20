@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="googlecode.libphonenumber.carrier" type="repository">
+    <properties maven-id="com.googlecode.libphonenumber:carrier:1.87" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/libphonenumber/carrier/1.87/carrier-1.87.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/libphonenumber/libphonenumber/8.9.8/libphonenumber-8.9.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/libphonenumber/prefixmapper/2.97/prefixmapper-2.97.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
